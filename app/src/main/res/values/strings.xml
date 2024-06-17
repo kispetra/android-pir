@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Pir</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="Login">Login</string>
+    <string name="register">Register</string>
+    <string name="clik_to_login">Clik to login</string>
+    <string name="clik_to_register">Clik to register</string>
+    <string name="logout">Logout</string>
+    <string name="text">text</string>
+    <string name="notification_icon_description">notification_icon_description</string>
+    <string name="home">Home</string>
+    <string name="to_do_list">To-Do List</string>
+    <string name="tips">Tips</string>
+    <string name="profile">Profile</string>
+    <string name="bride_s_name">Bride\'s Name:</string>
+    <string name="enter_bride_s_name">Enter bride\'s name</string>
+    <string name="groom_s_name">Groom\'s Name:</string>
+    <string name="enter_groom_s_name">Enter groom\'s name</string>
+    <string name="wedding_date">Wedding Date:</string>
+    <string name="enter_wedding_date">Enter wedding date</string>
+    <string name="save">Save</string>
+    <string name="email1">Email:</string>
+    <string name="logout1">Logout</string>
+    <string name="enter_task_name">Enter task name</string>
+    <string name="add_task">Add Task</string>
+    <string name="enter_task_details">Enter task details</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_details">Task Details</string>
+    <string name="save1">Save</string>
+    <string name="delete1">Delete</string>
+    <string name="completed">Completed</string>
+    <string name="addd">+</string>
+    <string name="search_tasks">Search Tasks</string>
+    <string name="guests">Guests</string>
+    <string-array name="status_array">
+        <item>Not Completed</item>
+        <item>Completed</item>
+    </string-array>
+    <string-array name="guest_categories">
+        <item>Bride side</item>
+        <item>Groom side</item>
+        <item>Mutual side</item>
+    </string-array>
+</resources>

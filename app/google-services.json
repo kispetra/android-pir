@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551316858535",
+    "project_id": "pir-android-97cf6",
+    "storage_bucket": "pir-android-97cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551316858535:android:bf942c21f1ad052398dd82",
+        "android_client_info": {
+          "package_name": "com.example.pir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_7IlcqAcqSLNXXXvJ98MugEf0iDEflJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
